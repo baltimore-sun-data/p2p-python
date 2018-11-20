@@ -274,7 +274,7 @@ Get a dictionary of text and links for a navigation collection.
 
 ## Query parameters
 
-See the [P2P API docs](http://content-api.p2p.tribuneinteractive.com/docs) for details on the ["common"](http://content-api.p2p.tribuneinteractive.com/docs/common_parameters) and ["filter"](http://content-api.p2p.tribuneinteractive.com/docs/content_item_filter) query parameters.
+See the [P2P API docs](https://content-api.p2p.tribuneinteractive.com/docs/) for details on the ["common"](https://content-api.p2p.tribuneinteractive.com/docs/common_parameters) and ["filter"](https://content-api.p2p.tribuneinteractive.com/docs/content_item_filter) query parameters.
 
 ## Custom parameters
 
